@@ -1,0 +1,86 @@
+*{list-style:none;
+    font-family:'Family'}
+#d{color:#F51B25;}
+#e{color:#337CFF;
+font-size:30px}
+nav ul li a:hover{color:#F51B25}
+#g{font-family:Signika}
+#Background ,#kha{
+background:#FAFCFD;
+height:500px}
+
+#body:hover{color:white;
+background:red;
+border-color:white;}
+i{font-size:25px}
+@font-face {
+    font-family: 'Family';
+    src: url(/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family:'face';
+    src: url(/Poppins-Light.ttf);
+}
+#paragraph{font-size:15px;
+font-family:'face'}
+#a{font-size:30px;
+font-weight:bolder}
+#g:hover{background:#EE3840;
+border-color:#F51B25;}
+ #g{margin-left:550px}
+ #pose{border-top:solid #F51B25 4px;
+    width:100px;
+    margin-left:600px
+}
+#mi{font-family:'face'}
+#oo{height:400px;
+background:#FAFCFD;}
+#p{font-family:'face';
+line-height:30px}
+#class{font-family:'face';
+}
+#kk{padding-left:10px}
+#kane1{margin-top:200px}
+#kan{background:#0A0A0A;
+color:white;
+margin-top:300px;}
+#link{text-decoration:none;
+color:white;}
+#sm{font-size:15px}
+#input{border-color:black;
+background:#212121;
+border-radius:none;}
+#input::placeholder{color:grey}
+#fo{font-family:'face';
+font-size:15px}
+#hr{font-size:12px;}
+#Ho:hover{color:#F51B25;
+cursor:pointer;}
+#link:hover{color:#F51B25;
+    cursor:pointer;}
+
+.container-narrow{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    /*max-width: 1200px;*/
+    margin-right: auto;
+    margin-left: auto;
+    background-color: transparent;
+}
+
+.top-margin{
+    margin-top: 135px;
+    text-decoration: none;
+}
+#cardd{max-width:100%;
+margin-top:120px;
+height:auto;}
+#weight{font-weight:bolder;}
+#ppp{font-family:'face'}
+#tt{width:300px;
+margin-top:50px
+}
+#kii{font-family:'face'}
+.mt-4{font-weight:bolder}
+#butto:hover{background:#F51B25;
+border-color:#F51B25}
